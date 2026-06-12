@@ -16,9 +16,9 @@ const groups = [
 ];
 
 const testimonials = [
-  { name: 'Nilufar opa', text: "Farzandim bu bog'chaga borganidan keyin juda quvnoq va bilimli bo'lib qaytadi. Tarbiyachilar juda mehribon!", rating: 5, avatar: '👩', delay: 0 },
-  { name: 'Jasur aka', text: "Eng yaxshi bog'chalardan biri. Xavfsizlik va sifatli ta'lim uchun katta rahmat!", rating: 5, avatar: '👨', delay: 0.1 },
-  { name: 'Dildora opa', text: "Ingliz tili va qo'shimcha mashg'ulotlar ajoyib. Farzandim maktabga tayyor bo'lib ketdi!", rating: 5, avatar: '👩', delay: 0.2 }
+  { name: 'Nilufar opa', text: "Farzandim bu bog'chaga borganidan keyin juda quvnoq va bilimli bo'lib qaytadi. Tarbiyachilar ham juda mehribon va e'tiborli!", rating: 5, avatar: '👩', delay: 0 },
+  { name: 'Jasur aka', text: "Bu hududdagi eng yaxshi bog'chalardan biri. Bolajonlar xavfsizligi va sifatli ta'lim uchun jamoaga katta rahmat!", rating: 5, avatar: '👨', delay: 0.1 },
+  { name: 'Dildora opa', text: "Bog'chadagi ingliz tili va qo'shimcha to'garaklar ajoyib. Farzandim maktabga dastlabki bilimlar bilan tayyor bo'lib ketdi!", rating: 5, avatar: '👩', delay: 0.2 }
 ];
 
 const socialLinks = [
